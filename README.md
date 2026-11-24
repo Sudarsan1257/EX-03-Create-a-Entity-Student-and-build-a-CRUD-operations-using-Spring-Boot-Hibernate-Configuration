@@ -220,15 +220,19 @@ public class Sample1Application {
 ```
 ### Output
 #### Create
-<img width="1912" height="1016" alt="image" src="https://github.com/user-attachments/assets/7f49365d-6995-41ed-93ea-ca567da9dfca" /><br>
+<img width="959" height="428" alt="image" src="https://github.com/user-attachments/assets/11fc3cbd-5c09-4ce6-bab1-9d038750c7bf" />
+
 #### Read
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/5edd5a62-2ff1-42de-aded-c2b339f10d5c" /><br>
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/1707852a-2d65-4930-b967-6d9f3d33aef4" />
+
 #### Update
-<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/840d42f0-e0dd-445c-907a-03a8fdf8310d" /><br>
+<img width="949" height="506" alt="image" src="https://github.com/user-attachments/assets/6aed40d7-1ae7-4454-9759-0e0e552a87d1" />
+
 #### Delete
-<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/20e5f254-2f44-4965-afbd-8be0b4812867" /><br>
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/1a4c4713-1dbb-4770-bb06-b477f64a2e60" />
+
 #### H2 Database
-<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/f820cbf2-5f53-479a-b58e-6c91979e06b2" /><br>
+<img width="957" height="478" alt="image" src="https://github.com/user-attachments/assets/75be79e8-83a4-4a2a-b8fb-22c003a8267c" />
 
 ### Result
 Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate) is successfully executed.
